@@ -1,6 +1,4 @@
-# Breach Bot Starter Code
-
-This is the Starter Code for Breach Bot!
+# Breach Bot
 
 ### Project Requirements
 - Your project should:
